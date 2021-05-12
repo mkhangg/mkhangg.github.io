@@ -102,7 +102,6 @@ const progres = player.querySelector(".progres");
 const progresFilled = progres.querySelector(".progres__filled");
 let isMove = false;
 
-// creat functions
 function openPlayer() {
 
     playerHeader.classList.add("open-header");
